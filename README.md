@@ -63,6 +63,17 @@ All LCD retrofit modules follow the same basic procedure:
 | eBay generic LCD | $100-200 | Unpredictable | $200-600+ |
 | Industrial LCD retrofit | $150-280 | 5-7 years | $150-280 |
 
+## Published Resources & Backlinks
+
+| Date | Platform | Title | Link |
+|------|----------|-------|------|
+| 06-15 | Telegra.ph | Repair vs Replace: CNC CRT Cost Analysis | [telegra.ph](https://telegra.ph/Repair-vs-Replace-The-Real-Cost-of-Keeping-an-Old-CNC-CRT-Alive-06-15) |
+| 06-15 | Rentry.co | Repair vs Replace: CNC CRT Cost Analysis | [rentry.co](https://rentry.co/cnc-display-20260615) |
+| 06-14 | Dev.to | CNC CRT to LCD Retrofit: Connector & Power Guide | [dev.to](https://dev.to/szkongto/cnc-crt-to-lcd-retrofit-the-complete-connector-and-power-guide-4ofb) |
+| 06-14 | Dev.to | Repair vs Replace: Real Cost of CNC CRT | [dev.to](https://dev.to/szkongto/repair-vs-replace-the-real-cost-of-keeping-an-old-cnc-crt-alive-deh) |
+| 06-14 | Telegra.ph | Repair vs Replace: CNC CRT Cost Analysis | [telegra.ph](https://telegra.ph/Repair-vs-Replace-The-Real-Cost-of-Keeping-an-Old-CNC-CRT-Alive-06-14) |
+| 06-14 | Rentry.co | Repair vs Replace: CNC CRT Cost Analysis | [rentry.co](https://rentry.co/cnc-display-20260614) |
+
 ## Resources
 
 - **[cncdisplay.com](https://cncdisplay.com)** — Full model-specific installation guides, compatibility matrix, case studies
