@@ -67,7 +67,10 @@ All LCD retrofit modules follow the same basic procedure:
 
 | Date | Platform | Title | Link |
 |------|----------|-------|------|
+| 06-15 | Dev.to | How to Identify Your CNC CRT Model Before Ordering | [dev.to](https://dev.to/szkongto/how-to-identify-your-cnc-crt-model-before-ordering-a-replacement-lcd-fp0) |
+| 06-15 | Telegra.ph | Okuma OSP CNC Display Upgrade Guide | [telegra.ph](https://telegra.ph/Okuma-OSP-CNC-Display-Upgrade-14-Pin-and-20-Pin-LCD-Replacement-06-15) |
 | 06-15 | Telegra.ph | Repair vs Replace: CNC CRT Cost Analysis | [telegra.ph](https://telegra.ph/Repair-vs-Replace-The-Real-Cost-of-Keeping-an-Old-CNC-CRT-Alive-06-15) |
+| 06-15 | Rentry.co | Okuma OSP CNC Display Upgrade Guide | [rentry.co](https://rentry.co/sw89cau9) |
 | 06-15 | Rentry.co | Repair vs Replace: CNC CRT Cost Analysis | [rentry.co](https://rentry.co/cnc-display-20260615) |
 | 06-14 | Dev.to | CNC CRT to LCD Retrofit: Connector & Power Guide | [dev.to](https://dev.to/szkongto/cnc-crt-to-lcd-retrofit-the-complete-connector-and-power-guide-4ofb) |
 | 06-14 | Dev.to | Repair vs Replace: Real Cost of CNC CRT | [dev.to](https://dev.to/szkongto/repair-vs-replace-the-real-cost-of-keeping-an-old-cnc-crt-alive-deh) |
